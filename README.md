@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=100&section=header&text=QAJiwon👋SDET%20&fontSize=90&fontColor=FDFDFD&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=150&section=header&text=QAJiwon💛SDET%20&fontSize=90&fontColor=FDFDFD&animation=twinkling" />
   <h3>안녕하세요👋 지원입니다🙂</h3>
   <p>
   <a href="https://brunch.co.kr/@jiwonleeqa" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-1DB954?style=flat-square&logo=CodersRank&logoColor=white"/></a>
