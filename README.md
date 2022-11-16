@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jiwon3027/" target="_blank"><img src="https://img.shields.io/badge/JiwonLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="easyone.jio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/easyone.jio@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-  <h3>👨‍💻Tech Stack👨‍💻</h3>
+  <h3>🤖Tech Stack🤖</h3>
   <h4>Programming Markup Stylesheet Language</h4>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
