@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=300&section=header&text=QAJiwon👋SDET%20&fontSize=90&fontColor=FDFDFD&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=100&section=header&text=QAJiwon👋SDET%20&fontSize=90&fontColor=FDFDFD&animation=twinkling" />
   <h3>안녕하세요👋 지원입니다🙂</h3>
   <p>
   <a href="https://brunch.co.kr/@jiwonleeqa" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-1DB954?style=flat-square&logo=CodersRank&logoColor=white"/></a>
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -26,7 +25,6 @@
   <img src="https://img.shields.io/badge/-WebdriverIO-EA5906?style=flat&logo=WebdriverIO&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat&logo=Puppeteer&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=Playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/-k6-7D64FF?style=flat&logo=k6&logoColor=white"/>
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=Mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=Jasmine&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=Cucumber&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Appium-7E4DD2?style=flat&logo=Appium&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TestNG-FF9800?style=flat&logo=TestNG&logoColor=white"/>
@@ -54,7 +51,6 @@
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/>
   <img src="https://img.shields.io/badge/-qtest-00539F?style=flat&logo=qTest&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/-qase-3D03A7?style=flat&logo=qase&logoColor=white"/>
   <img src="https://img.shields.io/badge/-testrail-428813?style=flat&logo=testrail&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Mantis-83B81A?style=flat&logo=Mantis&logoColor=white"/>
@@ -64,7 +60,6 @@
   <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VScode-2F80ED?style=flat&logo=VScode&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
