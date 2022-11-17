@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=150&section=header&text=SWQAJiwonSDET%20&fontSize=90&fontColor=000000&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=80&section=header&text=SWQAJiwonSDET%20&fontSize=60&fontColor=000000&animation=twinkling" />
   <h3>안녕하세요👋 지원입니다🙂</h3>
 
   <p>
