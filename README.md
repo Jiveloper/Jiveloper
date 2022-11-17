@@ -11,6 +11,13 @@
 </p>
   </div>
   <h3>🤖Tech Stack🤖</h3>
+  <h4>SW Test Knowledge</h4>
+  <p>
+  <img src="https://img.shields.io/badge/-ISTQB-0068FF?style=flat&logo=s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ISO29119-0068FF?style=flat&logo=s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ISO25010-0068FF?style=flat&logo=s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ISO33063-0068FF?style=flat&logo=s&logoColor=white"/>
+  </p>
   <h4>Programming Markup Stylesheet Language</h4>
   <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -21,13 +28,6 @@
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"/>
-  </p>
-  <h4>SW Test Knowledge</h4>
-  <p>
-  <img src="https://img.shields.io/badge/-ISTQB-0068FF?style=flat&logo=s&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ISO29119-0068FF?style=flat&logo=s&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ISO25010-0068FF?style=flat&logo=s&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ISO33063-0068FF?style=flat&logo=s&logoColor=white"/>
   </p>
   <h4>Web Mobile Test Framework </h4>
   <p>
@@ -49,18 +49,13 @@
   <img src="https://img.shields.io/badge/-TestNG-FF9800?style=flat&logo=TestNG&logoColor=white"/>
   <img src="https://img.shields.io/badge/-behave-FF6A00?style=flat&logo=behave&logoColor=white"/>
   </p>
-  <h4>Cloud Test Service</h4>
+  <h4>Automation Workflow</h4>
   <p>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Sauce Labs-E2231A?style=flat&logo=Sauce Labs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-BrowserStack-89C967?style=flat&logo=BrowserStack&logoColor=white"/>
-  </p>
-  <h4>CICD</h4>
-  <p>
   <img src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
-  </p>
-  <h4>Test Management Tool</h4>
-  <p>
   <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
@@ -70,9 +65,8 @@
   <img src="https://img.shields.io/badge/-testrail-428813?style=flat&logo=testrail&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Mantis-83B81A?style=flat&logo=Mantis&logoColor=white"/>
   </p>
-  <h4>etc</h4>
+  <h4>Dev Tool</h4>
   <p>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
