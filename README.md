@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/>
   <img src="https://img.shields.io/badge/-qtest-00539F?style=flat&logo=qTest&logoColor=white"/>
