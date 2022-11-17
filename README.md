@@ -84,13 +84,13 @@
   <h3>🌱Study🌱</h3>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  
-<div align="center">
+<!-- <div align="center"> -->
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiveloper)](https://github.com/Jiveloper/github-readme-stats)
   
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3027)](https://solved.ac/wldnjs3027)
   <img src="http://mazandi.herokuapp.com/api?handle=SDET&theme=warm"/>
-  </div>
+<!--   </div> -->
 
 <!--
 **Jiveloper/Jiveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
