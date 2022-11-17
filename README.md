@@ -71,6 +71,10 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3027)](https://solved.ac/wldnjs3027)
   <img src="http://mazandi.herokuapp.com/api?handle=SDET&theme=warm"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiveloper)](https://github.com/Jiveloper/github-readme-stats)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=slice&color=0:00DBDE,100:FC00FF&height=200&section=footer)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiveloper%2F&count_bg=%23005FFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
  
 
 <!--
