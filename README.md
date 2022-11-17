@@ -1,11 +1,15 @@
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:00DBDE,100:FC00FF&height=150&section=header&text=SWQAJiwonSDET%20&fontSize=90&fontColor=000000&animation=twinkling" />
   <h3>안녕하세요👋 지원입니다🙂</h3>
+
   <p>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiveloper%2F&count_bg=%23005FFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
   <a href="https://brunch.co.kr/@jiwonleeqa" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-1DB954?style=flat-square&logo=CodersRank&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jiwon3027/" target="_blank"><img src="https://img.shields.io/badge/JiwonLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="easyone.jio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/easyone.jio@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+  </div>
   <h3>🤖Tech Stack🤖</h3>
   <h4>Programming Markup Stylesheet Language</h4>
   <p>
@@ -80,12 +84,13 @@
   <h3>🌱Study🌱</h3>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
  
-
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiveloper)](https://github.com/Jiveloper/github-readme-stats)
-<br>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3027)](https://solved.ac/wldnjs3027)
+  
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3027)](https://solved.ac/wldnjs3027)
   <img src="http://mazandi.herokuapp.com/api?handle=SDET&theme=warm"/>
+  </div>
 
 <!--
 **Jiveloper/Jiveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
