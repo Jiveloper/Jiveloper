@@ -82,6 +82,7 @@
 <!-- <div align="center"> -->
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiveloper)](https://github.com/Jiveloper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiveloper)](https://github.com/Jiveloper/github-readme-stats)
   
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs3027)](https://solved.ac/wldnjs3027)
   <img src="http://mazandi.herokuapp.com/api?handle=SDET&theme=warm"/>
